@@ -1,0 +1,4 @@
+30
+SimpleGoal:Read a Book,Read an entire chapter book,20,False
+EternalGoal:Shower,Take a shower every morning,15
+ChecklistGoal:Attend temple,Attend the temple once a week,25,100,4,0

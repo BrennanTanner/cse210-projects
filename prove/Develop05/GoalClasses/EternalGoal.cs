@@ -2,7 +2,6 @@ public class EternalGoal : Goal
 {
 // attributes
 
-
 // constructors
     public EternalGoal(string goalTitle, string goalDescription, string goalPoints) : base(goalTitle, goalDescription, goalPoints)
     {

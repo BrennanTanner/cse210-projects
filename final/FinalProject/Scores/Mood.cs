@@ -16,7 +16,5 @@ public class Mood: Score
       _mood = mood;
    }
 // behaviors
-   public override int GetScoreAdditive(){
-   return 0;
-   }
+
 }

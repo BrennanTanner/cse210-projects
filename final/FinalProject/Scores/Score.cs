@@ -10,7 +10,5 @@ public class Score
 // getters and setters
 
 // behaviors
-public virtual int GetScoreAdditive(){
-   return 0;
-}
+
 }

@@ -25,6 +25,42 @@ public class Genre: Score
       SetWestern(genres[8]);
     }
 // getters and setters
+   public List<int> GetAll(){
+      List<int> scores = new List<int>();
+      scores.Add(GetAction());
+      scores.Add(GetComedy());
+      scores.Add(GetDrama());
+      scores.Add(GetFantasy());
+      scores.Add(GetHorror());
+      scores.Add(GetMystery());
+      scores.Add(GetRomance());
+      scores.Add(GetThriller());
+      scores.Add(GetWestern());
+      return scores;
+   }
+   public int GetByType(string type){
+      switch (type)
+      {
+         case "action":
+            return GetAction();
+         case "comedy":
+            return GetComedy();
+         case "drama":
+            return GetDrama();
+         case "fantasy":
+            return GetFantasy();
+         case "horror":
+            return GetHorror();
+         case "mystery":
+            return GetMystery();
+         case "romance":
+            return GetRomance();
+         case "thriller":
+            return GetThriller();
+         default:
+            return GetWestern();
+      }
+   }
    //Action
    public int GetAction(){
       return _action;
@@ -89,7 +125,5 @@ public class Genre: Score
       _western = western;
    }
 // behaviors
-   public override int GetScoreAdditive(){
-   return 0;
-   }
+
 }

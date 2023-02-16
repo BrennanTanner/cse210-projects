@@ -1,3 +1,24 @@
 tv?Avatar: The Last Airbender+20-14-11-18-5-9-9-9-5+happy+90?20+20+3
-doc?Planet Earth+33+7+27+0+0+7+13+13+0+nuetral+94?60+11
-mov?The Notebook+0+5+41+0+0+9+45+0+0+sad+87?121
+doc?Planet Earth+33-7-27-0-0-7-13-13-0+nuetral+94?60+11
+mov?The Notebook+0-5-41-0-0-9-45-0-0+sad+87?121
+tv?Breaking Bad+17-14-34-0-0-17-3-14-0+sad+85?48+13+5
+tv?The Chosen+9-13-39-0-0-13-13-0-13+nuetral+85?50+8+3
+tv?The Office+0-48-24-0-0-10-19-0-0+happy+85?22+20+9
+tv?Seinfeld+9-45-14-0-0-9-23-0-0+happy+85?22+22+9
+tv?Ted Lasso+15-31-27-0-0-12-15-0-0+happy+85?30+11+2
+tv?The Mandalorian+22-8-19-14-8-6-0-8-14+nuetral+85?40+8+2
+tv?Stranger Things+18-8-16-13-13-16-11-5-0+sad+85?58+10+4
+mov?Citizen Kane+0-8-40-0-0-32-20-0-0+sad+85?119
+mov?The Good, the Bad and the Ugly+24-3-21-0-0-7-10-0-34+nuetral+85?178
+mov?Kung-Fu Panda+33-29-8-21-0-8-0-0-0+happy+85?92
+mov?Monster House+20-23-7-7-20-23-0-0-0+happy+85?91
+mov?The Lord of the Rings: The Fellowship of the Ring+30-7-22-26-4-4-7-0-0+nuetral+85?178
+mov?Thor: Ragnarok+28-25-0-16-0-31-0-0-0+happy+85?138
+mov?Rango+18-21-13-8-0-15-0-0-26+nuetral+83?145
+mov?Paranorman+16-18-18-11-20-16-0-0-0+nuetral+87?96
+mov?Wallace & Gromit+18-29-14-18-0-11-0-11-0+happy+78?95
+doc?Making a Murderer+17-7-31-0-0-28-0-17-0+sad+70?58+1
+doc?The Fires of Love+17-10-27-0-0-0-30-17-0+happy+80?85+1
+doc?BlackFish+15-0-37-0-22-26-0-0-0+sad+70?94+1
+doc?Bigfoot+24-0-28-0-12-36-0-0-0+nuetral+60?58+3
+doc?The Social Dilemma+0-10-35-0-25-30-0-0-0+sad+75?73+1

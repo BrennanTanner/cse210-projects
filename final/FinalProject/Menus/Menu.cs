@@ -81,7 +81,7 @@ public class Menu
 // behaviors
 
    public void DisplayMenu(){
-
+    Console.Clear();
     if(_instructions != ""){
         Console.WriteLine(_instructions);
     }
@@ -97,31 +97,4 @@ public class Menu
     Console.WriteLine(_prompt);
    }
 
-    public void LoadFromFile(){
-      string[] medias = System.IO.File.ReadAllLines("media.txt");
-      foreach (string media in medias)
-      {
-        string[] mediaInfo = media.Split('?');
-        string mediaType = mediaInfo[0];
-        string[] mediaData = mediaInfo[1].Split('+');
-        string[] mediaRuntime = mediaInfo[2].Split('+');
-        List<int> mediaScores = new List<int>();
-        foreach (string item in mediaInfo[1].Split('-'))
-        {
-            mediaScores.Add(int.Parse(item));
-        }
-
-        if (mediaType == "tv"){
-           new Tv(mediaData[0], mediaScores, int.Parse(mediaData[1]), int.Parse(mediaRuntime[0]), int.Parse(mediaRuntime[1]), int.Parse(mediaRuntime[2]));
-        }else if(mediaType == "doc"){
-           
-        }else{
-            
-        }
-      }
-    }
-
-    public virtual void GetUserInput(){
-
-    }
 }

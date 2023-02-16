@@ -16,7 +16,5 @@ public class Rating: Score
       _rating = rating;
    }
 // behaviors
-public override int GetScoreAdditive(){
-   return 0;
-}
+
 }
